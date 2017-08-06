@@ -1,3 +1,4 @@
 theme: jekyll-theme-architect
 title: "Sieve"
 show_downloads: false
+markdown: kramdown
