@@ -24,3 +24,6 @@ So far we published the following components:
   - [dockerized sharelatex](https://github.com/sieve-microservices/sharelatex-docker)
   - [kapacitor plugin to autoscale Rancher services](https://github.com/sieve-microservices/kapacitor-scale)
   - [ansible playbook to deploy to EC2](https://github.com/sieve-microservices/sharelatex-ansible)
+- Case Study: Root Cause Analysis
+  - [Openstack Mitaka deployment](https://github.com/sieve-microservices/kolla/tree/openstack-mitaka)
+  - [Evaluation code & scenarios](https://github.com/sieve-microservices/rca-evaluation)
