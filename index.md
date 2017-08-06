@@ -10,7 +10,7 @@ framework, and a metrics dependency extractor. More specifically, Sieve first
 reduces the dimensionality of metrics by automatically filtering out unimportant
 metrics by observing their signal over time:
 
-![Design](/assets/design.png){:class="img-responsive"}
+<img class="img-responsive" src="/assets/design.png" alt="Design" style="height: 500px;"/>
 
 # Source Code
 
