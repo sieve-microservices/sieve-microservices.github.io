@@ -14,7 +14,7 @@ metrics by observing their signal over time:
 
 # Source Code
 
-Our paper is currently under for submission to [ACM/IFIP/USENIX Middleware 2017](http://2017.middleware-conference.org/).
+Our paper is currently under for submission.
 Full source code will be available, when our paper gets published.
 
 So far we published the following components:
