@@ -25,5 +25,5 @@ So far we published the following components:
   - [kapacitor plugin to autoscale Rancher services](https://github.com/sieve-microservices/kapacitor-scale)
   - [ansible playbook to deploy to EC2](https://github.com/sieve-microservices/sharelatex-ansible)
 - Case Study: Root Cause Analysis
-  - [Openstack Mitaka deployment](https://github.com/sieve-microservices/kolla/tree/openstack-mitaka)
+  - [Openstack Kolla deployment scripts](https://github.com/sieve-microservices/kolla)
   - [Evaluation code & scenarios](https://github.com/sieve-microservices/rca-evaluation)
