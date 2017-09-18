@@ -12,11 +12,22 @@ metrics by observing their signal over time:
 
 <img class="img-responsive" src="/assets/design.png" alt="Design" style="height: 500px;"/>
 
+# Publications
+
+- [Paper](/assets/sieve-middleware-2017.pdf) published at [Middleware 2017](http://2017.middleware-conference.org/)
+
+```bibtex
+@article{sieve-middleware-2017,
+  author    = {J{\"o}rg Thalheim, Antonio Rodrigues, Istemi Ekin Akkus, Pramod Bhatotia, Ruichuan Chen, Bimal Viswanath, Lei Jiao, Christof Fetzer},
+  title     = {Sieve: Actionable Insights from Monitored Metrics in Distributed Systems}
+  journal   = {Middleware},
+  year      = {2017},
+}
+```
+
+- [Tech-Report](/assets/sieve-report-2017.pdf) with additional results for Root Cause Analysis
+
 # Source Code
-
-Our paper is currently under for submission.
-
-So far we published the following components:
 
 - our [k-Shape](https://github.com/sieve-microservices/kshape) implementation
 - [Clustering/Granger causality analysis](https://github.com/sieve-microservices/scalegraph-scripts)
