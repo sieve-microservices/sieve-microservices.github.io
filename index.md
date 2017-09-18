@@ -15,11 +15,11 @@ metrics by observing their signal over time:
 # Source Code
 
 Our paper is currently under for submission.
-Full source code will be available, when our paper gets published.
 
 So far we published the following components:
 
 - our [k-Shape](https://github.com/sieve-microservices/kshape) implementation
+- [Clustering/Granger causality analysis](https://github.com/sieve-microservices/scalegraph-scripts)
 - Case Study: Autoscaling
   - [dockerized sharelatex](https://github.com/sieve-microservices/sharelatex-docker)
   - [kapacitor plugin to autoscale Rancher services](https://github.com/sieve-microservices/kapacitor-scale)
