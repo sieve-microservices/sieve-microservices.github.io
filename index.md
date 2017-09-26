@@ -20,11 +20,10 @@ metrics by observing their signal over time:
 @article{sieve-middleware-2017,
   author    = {J{\"o}rg Thalheim, Antonio Rodrigues, Istemi Ekin Akkus, Pramod Bhatotia, Ruichuan Chen, Bimal Viswanath, Lei Jiao, Christof Fetzer},
   title     = {Sieve: Actionable Insights from Monitored Metrics in Distributed Systems}
-  journal   = {Middleware},
+  booktitle = {Proceedings of Middleware Conference (Middleware)},
   year      = {2017},
 }
 ```
-
 - [Tech-Report](/assets/sieve-report-2017.pdf) with additional results for Root Cause Analysis
 
 # Source Code
