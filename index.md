@@ -17,9 +17,9 @@ metrics by observing their signal over time:
 - [Paper](/assets/sieve-middleware-2017.pdf) published at [Middleware 2017](http://2017.middleware-conference.org/)
 
 ```bibtex
-@article{sieve-middleware-2017,
+@inproceedings{sieve-middleware-2017,
   author    = {J{\"o}rg Thalheim, Antonio Rodrigues, Istemi Ekin Akkus, Pramod Bhatotia, Ruichuan Chen, Bimal Viswanath, Lei Jiao, Christof Fetzer},
-  title     = {Sieve: Actionable Insights from Monitored Metrics in Distributed Systems}
+  title     = {Sieve: Actionable Insights from Monitored Metrics in Distributed Systems},
   booktitle = {Proceedings of Middleware Conference (Middleware)},
   year      = {2017},
 }
